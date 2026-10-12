@@ -7,6 +7,16 @@ the stock `/usr/bin/python3`.
 
 > The project is **exo-panel**; the command you run is `python3 exoctl.py`.
 
+## Screenshots
+
+**Cluster view + Thunderbolt discovery** — every Mac in one table, find peers on the bridge:
+
+![exo-panel cluster view](docs/panel.jpg)
+
+**Per-machine launch detection + local models (no Hugging Face):**
+
+![exo-panel machine config](docs/config.jpg)
+
 ## What it does
 - **Cluster view** — every Mac in one table (status, launch method, downloaded
   model count, exo uptime). Start / Stop / Manage any machine from one screen.
