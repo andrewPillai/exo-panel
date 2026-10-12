@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# macOS
+.DS_Store
+
+# exoctl runtime (config lives in ~/.config/exoctl, not the repo)
+*.log
